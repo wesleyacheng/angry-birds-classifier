@@ -1,7 +1,7 @@
 # angry-birds-classifier
-
 First posted in my [Kaggle](https://www.kaggle.com/code/wesleyacheng/angry-birds-classifier) and hosted on my [HuggingFace](https://huggingface.co/wesleyacheng/angry-birds-classifier).
 
+# Introduction
 I love the **Angry Birds** game! I used to play it day and night nonstop!
 
 ![angry-birds.gif](https://github.com/wesleyacheng/angry-birds-classifier/assets/15952538/c5d97175-3e25-440a-a323-b6d8be72fbea)
